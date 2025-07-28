@@ -19,7 +19,7 @@ Stefan Kempter
 
 ## Hinweis
 
-**Dieses Repository dient ausschließlich der Veranschaulichung meiner Entwicklungsfähigkeiten. Eine Nutzung, Vervielfältigung oder Weiterverbreitung der Inhalte, insbesondere des Quellcodes und der Assets, ist ohne ausdrückliche Genehmigung nicht gestattet.**
+**Eine Nutzung, Vervielfältigung oder Weiterverbreitung der Inhalte, insbesondere des Quellcodes und der Assets, ist ohne ausdrückliche Genehmigung nicht gestattet.**
 
 © 2025 Stefan Kempter. All rights reserved.
 

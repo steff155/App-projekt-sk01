@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Spirit Level",
+    "slug": "Wasserwaage",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sk2810.spiritlevel"
+    },
+    "android": {
+      "versionCode": 3,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sk2810.wasserwaage"
+    },
+    "web": {
+      "favicon": "./assets/adaptive-icon.png"
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#000000",
+      "barStyle": "light-content"
+    },
+    "androidNavigationBar": {
+      "visible": "immersive"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9d50fcf7-93a6-4966-89a0-008b653427c4"
+      }
+    }
+  }
+}

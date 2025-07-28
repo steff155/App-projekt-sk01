@@ -1,6 +1,7 @@
 # Wasserwaage – React Native App
 
-Dies ist ein privates Demonstrationsprojekt im Rahmen einer Bewerbung. Die App wurde mit **React Native** entwickelt und nutzt das **Accelerometer** des Geräts zur Anzeige von Neigungswerten (x/y).
+Dies ist eine einfache Wasserwaagen-App, entwickelt mit React Native und Expo.  
+Die App nutzt den Beschleunigungssensor des Smartphones, um horizontale oder vertikale Ausrichtung zu erkennen.
 
 ## Entwickler
 Stefan Kempter
